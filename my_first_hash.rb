@@ -14,7 +14,6 @@ def shipping_manifest
   shipping_manifest["porcelain vases"] = 2
 
 
-
 end
 
 def retrieval
